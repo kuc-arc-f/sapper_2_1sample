@@ -1,6 +1,6 @@
 ﻿# sapper_2_1sample
 
- Version: 0.9.4
+ Version: 0.9.1
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
@@ -29,7 +29,9 @@ yarn dev
 https://cms-kuc-sapper1.netlify.app/
 
 ***
-### Related:
+### Blog:
+
+https://zenn.dev/knaka0209/articles/a91a1ee75aa120
 
 ***
 
